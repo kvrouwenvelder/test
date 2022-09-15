@@ -9,4 +9,4 @@ Here's some text. Today we're learning Markdown and relevant formatting. **Bold*
 Here's a bullet list. 
 * first item
 * 2nd item
-* 
+* And a new 3rd item!
